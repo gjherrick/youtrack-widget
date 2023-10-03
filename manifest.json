@@ -1,0 +1,21 @@
+{
+  "key": "gabbys-widget",
+  "name": "Gabby's Widget",
+  "version": "1.1.1",
+  "description": "Gabby's Scalped Reaction widget",
+  "author": "Gabby Herrick",
+  "homeUrl": "https://github.com/mariyadavydova/youtrack-cats-widget",
+  "iconUrl": "images/note.png",
+  "dependencies": {
+    "Hub": ">=2018.2"
+  },
+  "products": {
+    "Hub": "^2018.2",
+    "YouTrack": "^2018.2"
+  },
+  "view": {
+    "fadeOut": false,
+    "defaultWidth": 1,
+    "defaultHeight": 1
+  }
+}
